@@ -1,0 +1,4715 @@
+fileFormatVersion: 2
+guid: 02e07dc92d4dde740a92d899c96a3eb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7326130864017124952
+    second: galletcity_tiles_0
+  - first:
+      213: 2957472138325805011
+    second: galletcity_tiles_1
+  - first:
+      213: -2095222261008637686
+    second: galletcity_tiles_2
+  - first:
+      213: -4571555810847636589
+    second: galletcity_tiles_3
+  - first:
+      213: 8771424550299654416
+    second: galletcity_tiles_4
+  - first:
+      213: 7421151625868906246
+    second: galletcity_tiles_5
+  - first:
+      213: 5067037363923878696
+    second: galletcity_tiles_6
+  - first:
+      213: -6398865843671004035
+    second: galletcity_tiles_7
+  - first:
+      213: -2982110897753315215
+    second: galletcity_tiles_8
+  - first:
+      213: 8026390358122376815
+    second: galletcity_tiles_9
+  - first:
+      213: -8888709070398981648
+    second: galletcity_tiles_10
+  - first:
+      213: -4553196348614873056
+    second: galletcity_tiles_11
+  - first:
+      213: 6694926947651173812
+    second: galletcity_tiles_12
+  - first:
+      213: 2067322956144486857
+    second: galletcity_tiles_13
+  - first:
+      213: -8877857870146830590
+    second: galletcity_tiles_14
+  - first:
+      213: 371879967121877373
+    second: galletcity_tiles_15
+  - first:
+      213: -647175489432467223
+    second: galletcity_tiles_16
+  - first:
+      213: -5785950833701485933
+    second: galletcity_tiles_17
+  - first:
+      213: 7682072827068952605
+    second: galletcity_tiles_18
+  - first:
+      213: -3162474465420118869
+    second: galletcity_tiles_19
+  - first:
+      213: -944942826615893578
+    second: galletcity_tiles_20
+  - first:
+      213: 5389116014724334186
+    second: galletcity_tiles_21
+  - first:
+      213: -7502983045216831619
+    second: galletcity_tiles_22
+  - first:
+      213: -6659559648138540738
+    second: galletcity_tiles_23
+  - first:
+      213: 1041395435749147654
+    second: galletcity_tiles_24
+  - first:
+      213: -7638138269856078785
+    second: galletcity_tiles_25
+  - first:
+      213: -7905367582537612929
+    second: galletcity_tiles_26
+  - first:
+      213: -5236664321366618873
+    second: galletcity_tiles_27
+  - first:
+      213: -7214708311633738119
+    second: galletcity_tiles_28
+  - first:
+      213: -63117056096915411
+    second: galletcity_tiles_29
+  - first:
+      213: 322093466043930322
+    second: galletcity_tiles_30
+  - first:
+      213: -3929123685316376508
+    second: galletcity_tiles_31
+  - first:
+      213: 6943956379250792906
+    second: galletcity_tiles_32
+  - first:
+      213: 2912939489342479890
+    second: galletcity_tiles_33
+  - first:
+      213: -6801311807399565471
+    second: galletcity_tiles_34
+  - first:
+      213: 5989404941138499122
+    second: galletcity_tiles_35
+  - first:
+      213: 6456483993545444652
+    second: galletcity_tiles_36
+  - first:
+      213: -1663510408933540980
+    second: galletcity_tiles_37
+  - first:
+      213: 5926800366112544182
+    second: galletcity_tiles_38
+  - first:
+      213: -5812037089273256393
+    second: galletcity_tiles_39
+  - first:
+      213: -5605475434677908772
+    second: galletcity_tiles_40
+  - first:
+      213: -5648040414724106220
+    second: galletcity_tiles_41
+  - first:
+      213: -7104536733996555307
+    second: galletcity_tiles_42
+  - first:
+      213: -5450514482007978646
+    second: galletcity_tiles_43
+  - first:
+      213: -3222927589536607876
+    second: galletcity_tiles_44
+  - first:
+      213: 8318329963094036604
+    second: galletcity_tiles_45
+  - first:
+      213: -5306330602114464028
+    second: galletcity_tiles_46
+  - first:
+      213: 4129744749008639906
+    second: galletcity_tiles_47
+  - first:
+      213: -8926274963843901434
+    second: galletcity_tiles_48
+  - first:
+      213: -1042404790231174118
+    second: galletcity_tiles_49
+  - first:
+      213: -3378706478129808718
+    second: galletcity_tiles_50
+  - first:
+      213: -8404020816556526871
+    second: galletcity_tiles_51
+  - first:
+      213: -1586866947058858179
+    second: galletcity_tiles_52
+  - first:
+      213: 8876529420589757818
+    second: galletcity_tiles_53
+  - first:
+      213: -5094935213043389541
+    second: galletcity_tiles_54
+  - first:
+      213: 713003838842517554
+    second: galletcity_tiles_55
+  - first:
+      213: -8038326115897114144
+    second: galletcity_tiles_56
+  - first:
+      213: 5352790106626739179
+    second: galletcity_tiles_57
+  - first:
+      213: 7247524584714688328
+    second: galletcity_tiles_58
+  - first:
+      213: 4757641089985671101
+    second: galletcity_tiles_59
+  - first:
+      213: 3648511601100395285
+    second: galletcity_tiles_60
+  - first:
+      213: 599990151689115900
+    second: galletcity_tiles_61
+  - first:
+      213: -3657014397628892650
+    second: galletcity_tiles_62
+  - first:
+      213: 1787857028961742384
+    second: galletcity_tiles_63
+  - first:
+      213: 7327459678786454981
+    second: galletcity_tiles_64
+  - first:
+      213: 6934833384587693973
+    second: galletcity_tiles_65
+  - first:
+      213: -3258588238278157133
+    second: galletcity_tiles_66
+  - first:
+      213: -1506596818930476721
+    second: galletcity_tiles_67
+  - first:
+      213: 7106316796548087738
+    second: galletcity_tiles_68
+  - first:
+      213: 8690050108392694024
+    second: galletcity_tiles_69
+  - first:
+      213: -8513007694989632465
+    second: galletcity_tiles_70
+  - first:
+      213: 3194743543132831223
+    second: galletcity_tiles_71
+  - first:
+      213: -77089754465281579
+    second: galletcity_tiles_72
+  - first:
+      213: -3900324308193686130
+    second: galletcity_tiles_73
+  - first:
+      213: 8045176165422292090
+    second: galletcity_tiles_74
+  - first:
+      213: -8974192945941447687
+    second: galletcity_tiles_75
+  - first:
+      213: -4088423893451965018
+    second: galletcity_tiles_76
+  - first:
+      213: -9088776353180608975
+    second: galletcity_tiles_77
+  - first:
+      213: -1962581409673805767
+    second: galletcity_tiles_78
+  - first:
+      213: -5760819658032784057
+    second: galletcity_tiles_79
+  - first:
+      213: -8699419935781270373
+    second: galletcity_tiles_80
+  - first:
+      213: -466155475927620724
+    second: galletcity_tiles_81
+  - first:
+      213: 3772226152555295522
+    second: galletcity_tiles_82
+  - first:
+      213: 2825972152528697772
+    second: galletcity_tiles_83
+  - first:
+      213: -8893322887477523727
+    second: galletcity_tiles_84
+  - first:
+      213: 1242090198227684437
+    second: galletcity_tiles_85
+  - first:
+      213: -5464821887190236720
+    second: galletcity_tiles_86
+  - first:
+      213: -6066783279789778134
+    second: galletcity_tiles_87
+  - first:
+      213: 4412355534904511691
+    second: galletcity_tiles_88
+  - first:
+      213: -6863984052172839963
+    second: galletcity_tiles_89
+  - first:
+      213: -4493704071431291300
+    second: galletcity_tiles_90
+  - first:
+      213: 8972447902561745000
+    second: galletcity_tiles_91
+  - first:
+      213: -6490163379456893805
+    second: galletcity_tiles_92
+  - first:
+      213: -87526911920786386
+    second: galletcity_tiles_93
+  - first:
+      213: -5471528727793183499
+    second: galletcity_tiles_94
+  - first:
+      213: -1981513406865896809
+    second: galletcity_tiles_95
+  - first:
+      213: -7845745232980076605
+    second: galletcity_tiles_96
+  - first:
+      213: 1620485124514638881
+    second: galletcity_tiles_97
+  - first:
+      213: -2950870933129611808
+    second: galletcity_tiles_98
+  - first:
+      213: -8848009537764274126
+    second: galletcity_tiles_99
+  - first:
+      213: -6240118714662843829
+    second: galletcity_tiles_100
+  - first:
+      213: -1763719170163497161
+    second: galletcity_tiles_101
+  - first:
+      213: -2620196380498194553
+    second: galletcity_tiles_102
+  - first:
+      213: -1329287200560907355
+    second: galletcity_tiles_103
+  - first:
+      213: 3256362903159702949
+    second: galletcity_tiles_104
+  - first:
+      213: 5916622842956161045
+    second: galletcity_tiles_105
+  - first:
+      213: -8298797628231920350
+    second: galletcity_tiles_106
+  - first:
+      213: -1996995609669208541
+    second: galletcity_tiles_107
+  - first:
+      213: 581055235203216958
+    second: galletcity_tiles_108
+  - first:
+      213: 1383248551843963065
+    second: galletcity_tiles_109
+  - first:
+      213: 6167090924648742679
+    second: galletcity_tiles_110
+  - first:
+      213: -1421824927477467620
+    second: galletcity_tiles_111
+  - first:
+      213: 8803207316823023276
+    second: galletcity_tiles_112
+  - first:
+      213: -3788314018429168169
+    second: galletcity_tiles_113
+  - first:
+      213: 8173651698433656178
+    second: galletcity_tiles_114
+  - first:
+      213: 1594854320510102051
+    second: galletcity_tiles_115
+  - first:
+      213: 3771629783384121994
+    second: galletcity_tiles_116
+  - first:
+      213: -1440253849063681553
+    second: galletcity_tiles_117
+  - first:
+      213: 5522638699062212096
+    second: galletcity_tiles_118
+  - first:
+      213: -3882745665496869637
+    second: galletcity_tiles_119
+  - first:
+      213: -3007812335686002196
+    second: galletcity_tiles_120
+  - first:
+      213: -7198159664410377518
+    second: galletcity_tiles_121
+  - first:
+      213: -1504386837575005087
+    second: galletcity_tiles_122
+  - first:
+      213: 6258660901737391777
+    second: galletcity_tiles_123
+  - first:
+      213: -5593425437007588166
+    second: galletcity_tiles_124
+  - first:
+      213: 7861443886397596038
+    second: galletcity_tiles_125
+  - first:
+      213: -8701805147471204282
+    second: galletcity_tiles_126
+  - first:
+      213: -6947762391840559061
+    second: galletcity_tiles_127
+  - first:
+      213: -5827013323050419805
+    second: galletcity_tiles_128
+  - first:
+      213: 4653509531902658626
+    second: galletcity_tiles_129
+  - first:
+      213: -9029247127523306240
+    second: galletcity_tiles_130
+  - first:
+      213: 3136486973665709144
+    second: galletcity_tiles_131
+  - first:
+      213: 6880397243790896774
+    second: galletcity_tiles_132
+  - first:
+      213: -8605619095438591685
+    second: galletcity_tiles_133
+  - first:
+      213: -6507470469761891099
+    second: galletcity_tiles_134
+  - first:
+      213: 5882125557573591111
+    second: galletcity_tiles_135
+  - first:
+      213: 3836256189015496034
+    second: galletcity_tiles_136
+  - first:
+      213: -9168158399238379130
+    second: galletcity_tiles_137
+  - first:
+      213: 181853828817544305
+    second: galletcity_tiles_138
+  - first:
+      213: -2226196885890323581
+    second: galletcity_tiles_139
+  - first:
+      213: -5350087278260365934
+    second: galletcity_tiles_140
+  - first:
+      213: -6426847414099749643
+    second: galletcity_tiles_141
+  - first:
+      213: -5839885160089779906
+    second: galletcity_tiles_142
+  - first:
+      213: 3146736464339965157
+    second: galletcity_tiles_143
+  - first:
+      213: 4346419463451038735
+    second: galletcity_tiles_144
+  - first:
+      213: 4512101099597734410
+    second: galletcity_tiles_145
+  - first:
+      213: 1976560060291286587
+    second: galletcity_tiles_146
+  - first:
+      213: -2134368639842851546
+    second: galletcity_tiles_147
+  - first:
+      213: 8875763642565113500
+    second: galletcity_tiles_148
+  - first:
+      213: -4344072844154293838
+    second: galletcity_tiles_149
+  - first:
+      213: 1342836807751824162
+    second: galletcity_tiles_150
+  - first:
+      213: -1878849068090924464
+    second: galletcity_tiles_151
+  - first:
+      213: -1261394125237005863
+    second: galletcity_tiles_152
+  - first:
+      213: -8812786016582330547
+    second: galletcity_tiles_153
+  - first:
+      213: 7300716759180101324
+    second: galletcity_tiles_154
+  - first:
+      213: 7952466417227550532
+    second: galletcity_tiles_155
+  - first:
+      213: -7799577347348609184
+    second: galletcity_tiles_156
+  - first:
+      213: 4092726768882592045
+    second: galletcity_tiles_157
+  - first:
+      213: -7641560267605755405
+    second: galletcity_tiles_158
+  - first:
+      213: 1734574767156296427
+    second: galletcity_tiles_159
+  - first:
+      213: 1774004192029754190
+    second: galletcity_tiles_160
+  - first:
+      213: 6644535130504613988
+    second: galletcity_tiles_161
+  - first:
+      213: 2650340837740540969
+    second: galletcity_tiles_162
+  - first:
+      213: -1049277659287376635
+    second: galletcity_tiles_163
+  - first:
+      213: 2696101724747840741
+    second: galletcity_tiles_164
+  - first:
+      213: 937510175206087620
+    second: galletcity_tiles_165
+  - first:
+      213: -3070378331985542682
+    second: galletcity_tiles_166
+  - first:
+      213: 6048377115345703221
+    second: galletcity_tiles_167
+  - first:
+      213: 5537693187155038260
+    second: galletcity_tiles_168
+  - first:
+      213: 6988058891048169255
+    second: galletcity_tiles_169
+  - first:
+      213: 2380132574646407137
+    second: galletcity_tiles_170
+  - first:
+      213: 704984523948834963
+    second: galletcity_tiles_171
+  - first:
+      213: -2694494075447449642
+    second: galletcity_tiles_172
+  - first:
+      213: -4132844524140159561
+    second: galletcity_tiles_173
+  - first:
+      213: -7838006442730033797
+    second: galletcity_tiles_174
+  - first:
+      213: -8156364347333917273
+    second: galletcity_tiles_175
+  - first:
+      213: -7459098532470931415
+    second: galletcity_tiles_176
+  - first:
+      213: 4970640935553465647
+    second: galletcity_tiles_177
+  - first:
+      213: -1746078129408836265
+    second: galletcity_tiles_178
+  - first:
+      213: -8490233388659095849
+    second: galletcity_tiles_179
+  - first:
+      213: 7087890093394440380
+    second: galletcity_tiles_180
+  - first:
+      213: -2022267563835252276
+    second: galletcity_tiles_181
+  - first:
+      213: 1004571020233935508
+    second: galletcity_tiles_182
+  - first:
+      213: 4303894284299894490
+    second: galletcity_tiles_183
+  - first:
+      213: 8516379349257939021
+    second: galletcity_tiles_184
+  - first:
+      213: -3181493698728065414
+    second: galletcity_tiles_185
+  - first:
+      213: -2441049714475611738
+    second: galletcity_tiles_186
+  - first:
+      213: 5877194412351928659
+    second: galletcity_tiles_187
+  - first:
+      213: -8764559861786124914
+    second: galletcity_tiles_188
+  - first:
+      213: 3719203428878613323
+    second: galletcity_tiles_189
+  - first:
+      213: 6665238724219606390
+    second: galletcity_tiles_190
+  - first:
+      213: -8856512344735150880
+    second: galletcity_tiles_191
+  - first:
+      213: -2612765560210845164
+    second: galletcity_tiles_192
+  - first:
+      213: 2750110599378052447
+    second: galletcity_tiles_193
+  - first:
+      213: 6428907804682508681
+    second: galletcity_tiles_194
+  - first:
+      213: 6438868213590556937
+    second: galletcity_tiles_195
+  - first:
+      213: -2988878247496881209
+    second: galletcity_tiles_196
+  - first:
+      213: 3586280560260561153
+    second: galletcity_tiles_197
+  - first:
+      213: -9105720087951027362
+    second: galletcity_tiles_198
+  - first:
+      213: -5370768213955808992
+    second: galletcity_tiles_199
+  - first:
+      213: -6323761794131592204
+    second: galletcity_tiles_200
+  - first:
+      213: -6657415587349505664
+    second: galletcity_tiles_201
+  - first:
+      213: -1374678599471246576
+    second: galletcity_tiles_202
+  - first:
+      213: 7018628394598720705
+    second: galletcity_tiles_203
+  - first:
+      213: -1464554134564968026
+    second: galletcity_tiles_204
+  - first:
+      213: 4564217552554041249
+    second: galletcity_tiles_205
+  - first:
+      213: -5082690811611310607
+    second: galletcity_tiles_206
+  - first:
+      213: -717742252160592481
+    second: galletcity_tiles_207
+  - first:
+      213: 1248155910145212131
+    second: galletcity_tiles_208
+  - first:
+      213: 4754533116157396305
+    second: galletcity_tiles_209
+  - first:
+      213: 6114821402966512717
+    second: galletcity_tiles_210
+  - first:
+      213: 8648389820083727655
+    second: galletcity_tiles_211
+  - first:
+      213: 2991923154655012690
+    second: galletcity_tiles_212
+  - first:
+      213: 4430725818355325044
+    second: galletcity_tiles_0
+  - first:
+      213: 5713622060083752218
+    second: galletcity_tiles_1
+  - first:
+      213: 7895409522503080340
+    second: galletcity_tiles_2
+  - first:
+      213: 5610235029579133003
+    second: galletcity_tiles_3
+  - first:
+      213: 417697013990872868
+    second: galletcity_tiles_4
+  - first:
+      213: 4637895587530303605
+    second: galletcity_tiles_5
+  - first:
+      213: 4702165566541062997
+    second: galletcity_tiles_6
+  - first:
+      213: -260394599940590179
+    second: galletcity_tiles_7
+  - first:
+      213: -5130642327399628137
+    second: galletcity_tiles_8
+  - first:
+      213: -8628187791257580925
+    second: galletcity_tiles_9
+  - first:
+      213: -8789329252432808022
+    second: galletcity_tiles_10
+  - first:
+      213: -944826807297997668
+    second: galletcity_tiles_11
+  - first:
+      213: 6428420622140173331
+    second: galletcity_tiles_12
+  - first:
+      213: 7554821297106536301
+    second: galletcity_tiles_13
+  - first:
+      213: 8645261352939411889
+    second: galletcity_tiles_14
+  - first:
+      213: -8533260070375132193
+    second: galletcity_tiles_15
+  - first:
+      213: 3446406299242489055
+    second: galletcity_tiles_16
+  - first:
+      213: -5208324351658683801
+    second: galletcity_tiles_17
+  - first:
+      213: 6330405440484136336
+    second: galletcity_tiles_18
+  - first:
+      213: 4752163910090351860
+    second: galletcity_tiles_19
+  - first:
+      213: -4987941592645393651
+    second: galletcity_tiles_20
+  - first:
+      213: 3757800092783013218
+    second: galletcity_tiles_21
+  - first:
+      213: 3705030491679159336
+    second: galletcity_tiles_22
+  - first:
+      213: 4776054389385145066
+    second: galletcity_tiles_23
+  - first:
+      213: 1573578053108328915
+    second: galletcity_tiles_24
+  - first:
+      213: -7921323161054294677
+    second: galletcity_tiles_25
+  - first:
+      213: -7499808471090960331
+    second: galletcity_tiles_26
+  - first:
+      213: 4119641861863660856
+    second: galletcity_tiles_27
+  - first:
+      213: -5955370968594665556
+    second: galletcity_tiles_28
+  - first:
+      213: -1072594730547558152
+    second: galletcity_tiles_29
+  - first:
+      213: -5853732787718793103
+    second: galletcity_tiles_30
+  - first:
+      213: 619556751628750747
+    second: galletcity_tiles_31
+  - first:
+      213: -7180880168240724469
+    second: galletcity_tiles_32
+  - first:
+      213: -709926531699982425
+    second: galletcity_tiles_33
+  - first:
+      213: -1591160154663108488
+    second: galletcity_tiles_34
+  - first:
+      213: 7695014026925997525
+    second: galletcity_tiles_35
+  - first:
+      213: -6279343616847661378
+    second: galletcity_tiles_36
+  - first:
+      213: -5181189610790448792
+    second: galletcity_tiles_37
+  - first:
+      213: -8622707007966333290
+    second: galletcity_tiles_38
+  - first:
+      213: 8666966350603914076
+    second: galletcity_tiles_39
+  - first:
+      213: -3411294036151258564
+    second: galletcity_tiles_40
+  - first:
+      213: 2563646880055388721
+    second: galletcity_tiles_41
+  - first:
+      213: 5246264392012013915
+    second: galletcity_tiles_42
+  - first:
+      213: -7423760407242877902
+    second: galletcity_tiles_43
+  - first:
+      213: 937120615445037369
+    second: galletcity_tiles_44
+  - first:
+      213: -4868615063567590568
+    second: galletcity_tiles_45
+  - first:
+      213: -1310666520043670281
+    second: galletcity_tiles_46
+  - first:
+      213: 1657997071721577460
+    second: galletcity_tiles_47
+  - first:
+      213: -2681661338104265662
+    second: galletcity_tiles_48
+  - first:
+      213: 5218745217098350864
+    second: galletcity_tiles_49
+  - first:
+      213: -1640501838746104685
+    second: galletcity_tiles_50
+  - first:
+      213: -7569938453010920598
+    second: galletcity_tiles_51
+  - first:
+      213: -4516223818528164466
+    second: galletcity_tiles_52
+  - first:
+      213: 7046148829848266107
+    second: galletcity_tiles_53
+  - first:
+      213: -2927416561993890777
+    second: galletcity_tiles_54
+  - first:
+      213: 6215665496816828550
+    second: galletcity_tiles_55
+  - first:
+      213: -911361101481073736
+    second: galletcity_tiles_56
+  - first:
+      213: 2240551366828498041
+    second: galletcity_tiles_57
+  - first:
+      213: 5491054304534866042
+    second: galletcity_tiles_58
+  - first:
+      213: 7180004173974750260
+    second: galletcity_tiles_59
+  - first:
+      213: 5826951183194651776
+    second: galletcity_tiles_60
+  - first:
+      213: -8847587234800493570
+    second: galletcity_tiles_61
+  - first:
+      213: 6238852183010668299
+    second: galletcity_tiles_62
+  - first:
+      213: -8781815927712511744
+    second: galletcity_tiles_63
+  - first:
+      213: -5268351373921776978
+    second: galletcity_tiles_64
+  - first:
+      213: -7965432126378471518
+    second: galletcity_tiles_65
+  - first:
+      213: -7733426742266777171
+    second: galletcity_tiles_66
+  - first:
+      213: -8308738188577011160
+    second: galletcity_tiles_67
+  - first:
+      213: 4246273670675251056
+    second: galletcity_tiles_68
+  - first:
+      213: 3542151997998989843
+    second: galletcity_tiles_69
+  - first:
+      213: 571791951116191019
+    second: galletcity_tiles_70
+  - first:
+      213: 3515840930086550373
+    second: galletcity_tiles_71
+  - first:
+      213: -6119196890166413490
+    second: galletcity_tiles_72
+  - first:
+      213: -2915442521470658763
+    second: galletcity_tiles_73
+  - first:
+      213: -7592817409362756578
+    second: galletcity_tiles_74
+  - first:
+      213: 6197543019699583159
+    second: galletcity_tiles_75
+  - first:
+      213: 3383517909778426544
+    second: galletcity_tiles_76
+  - first:
+      213: -771396434932223186
+    second: galletcity_tiles_77
+  - first:
+      213: 4733090204448753030
+    second: galletcity_tiles_78
+  - first:
+      213: -6628260255749132270
+    second: galletcity_tiles_79
+  - first:
+      213: 7207087687571303956
+    second: galletcity_tiles_80
+  - first:
+      213: 1641248235692114640
+    second: galletcity_tiles_81
+  - first:
+      213: -6911707982878825626
+    second: galletcity_tiles_82
+  - first:
+      213: 6427443556154934066
+    second: galletcity_tiles_83
+  - first:
+      213: -528950872222231024
+    second: galletcity_tiles_84
+  - first:
+      213: 6884558589665808719
+    second: galletcity_tiles_85
+  - first:
+      213: -7687839838755116505
+    second: galletcity_tiles_86
+  - first:
+      213: 1006505091091857134
+    second: galletcity_tiles_87
+  - first:
+      213: -7196330188606569372
+    second: galletcity_tiles_88
+  - first:
+      213: 4992340733105311614
+    second: galletcity_tiles_89
+  - first:
+      213: 5266983915024427848
+    second: galletcity_tiles_90
+  - first:
+      213: -7934423210567401161
+    second: galletcity_tiles_91
+  - first:
+      213: 1778917190719039387
+    second: galletcity_tiles_92
+  - first:
+      213: -2596546636109921533
+    second: galletcity_tiles_93
+  - first:
+      213: -2851004990487469469
+    second: galletcity_tiles_94
+  - first:
+      213: -4680259736224255255
+    second: galletcity_tiles_95
+  - first:
+      213: 2872850341023186445
+    second: galletcity_tiles_96
+  - first:
+      213: 2373335716386581134
+    second: galletcity_tiles_97
+  - first:
+      213: -2975441751012281240
+    second: galletcity_tiles_98
+  - first:
+      213: 3961475043872786624
+    second: galletcity_tiles_99
+  - first:
+      213: -2712955480539566716
+    second: galletcity_tiles_100
+  - first:
+      213: 3556077794199938021
+    second: galletcity_tiles_101
+  - first:
+      213: 2445688852989140769
+    second: galletcity_tiles_102
+  - first:
+      213: 1732021542765101723
+    second: galletcity_tiles_103
+  - first:
+      213: -4597920739090853425
+    second: galletcity_tiles_104
+  - first:
+      213: -1576388627139347680
+    second: galletcity_tiles_105
+  - first:
+      213: -8226253738645694570
+    second: galletcity_tiles_106
+  - first:
+      213: 4620958323494496871
+    second: galletcity_tiles_107
+  - first:
+      213: 4531529505510961433
+    second: galletcity_tiles_108
+  - first:
+      213: -4843501194287139688
+    second: galletcity_tiles_109
+  - first:
+      213: 1171041099831972008
+    second: galletcity_tiles_110
+  - first:
+      213: 1966155313730779990
+    second: galletcity_tiles_111
+  - first:
+      213: -620199910163829043
+    second: galletcity_tiles_112
+  - first:
+      213: -4118569248334522572
+    second: galletcity_tiles_113
+  - first:
+      213: -1693502780940186135
+    second: galletcity_tiles_114
+  - first:
+      213: 3442530922218655572
+    second: galletcity_tiles_115
+  - first:
+      213: 2467528687001128931
+    second: galletcity_tiles_116
+  - first:
+      213: -8438957434005249393
+    second: galletcity_tiles_117
+  - first:
+      213: 1391225434876206816
+    second: galletcity_tiles_118
+  - first:
+      213: -5636712619646646869
+    second: galletcity_tiles_119
+  - first:
+      213: 4365316694769758753
+    second: galletcity_tiles_120
+  - first:
+      213: 1132190373338796023
+    second: galletcity_tiles_121
+  - first:
+      213: -6067599398125412369
+    second: galletcity_tiles_122
+  - first:
+      213: 7085243594907604809
+    second: galletcity_tiles_123
+  - first:
+      213: 3548367521603323614
+    second: galletcity_tiles_124
+  - first:
+      213: -4550542626903427595
+    second: galletcity_tiles_125
+  - first:
+      213: 3812774002327626733
+    second: galletcity_tiles_126
+  - first:
+      213: -2387896864183750192
+    second: galletcity_tiles_127
+  - first:
+      213: 6107021513379855822
+    second: galletcity_tiles_128
+  - first:
+      213: -4559065179055554300
+    second: galletcity_tiles_129
+  - first:
+      213: 3898685056352131449
+    second: galletcity_tiles_130
+  - first:
+      213: 4272401534362049391
+    second: galletcity_tiles_131
+  - first:
+      213: -8245833319389219651
+    second: galletcity_tiles_132
+  - first:
+      213: 6480010686041988451
+    second: galletcity_tiles_133
+  - first:
+      213: -3715423051804393693
+    second: galletcity_tiles_134
+  - first:
+      213: 7835845641315630642
+    second: galletcity_tiles_135
+  - first:
+      213: -5828867017756697614
+    second: galletcity_tiles_136
+  - first:
+      213: -7755957283323053546
+    second: galletcity_tiles_137
+  - first:
+      213: -2910547898852141361
+    second: galletcity_tiles_138
+  - first:
+      213: 1534758965141267173
+    second: galletcity_tiles_139
+  - first:
+      213: -1808660623383695802
+    second: galletcity_tiles_140
+  - first:
+      213: -3462177154164167872
+    second: galletcity_tiles_141
+  - first:
+      213: 7487327860761971672
+    second: galletcity_tiles_142
+  - first:
+      213: -1189704129468479024
+    second: galletcity_tiles_143
+  - first:
+      213: -2975979348157337184
+    second: galletcity_tiles_144
+  - first:
+      213: -7343359092559698837
+    second: galletcity_tiles_145
+  - first:
+      213: 4508797491590643696
+    second: galletcity_tiles_146
+  - first:
+      213: -7035674180809806782
+    second: galletcity_tiles_147
+  - first:
+      213: -7308471684873095375
+    second: galletcity_tiles_148
+  - first:
+      213: -7548379117646371984
+    second: galletcity_tiles_149
+  - first:
+      213: -6802223926284088504
+    second: galletcity_tiles_150
+  - first:
+      213: 7228212508197613863
+    second: galletcity_tiles_151
+  - first:
+      213: 2766260536271124614
+    second: galletcity_tiles_152
+  - first:
+      213: -1443720599477426483
+    second: galletcity_tiles_153
+  - first:
+      213: -4054702164077777261
+    second: galletcity_tiles_154
+  - first:
+      213: -2041972536718756125
+    second: galletcity_tiles_155
+  - first:
+      213: -4937967188528407140
+    second: galletcity_tiles_156
+  - first:
+      213: -6337840058293010015
+    second: galletcity_tiles_157
+  - first:
+      213: 5244368413687646926
+    second: galletcity_tiles_158
+  - first:
+      213: 2413071302509613654
+    second: galletcity_tiles_159
+  - first:
+      213: -6514719169312080027
+    second: galletcity_tiles_160
+  - first:
+      213: -3717893992153238111
+    second: galletcity_tiles_161
+  - first:
+      213: 7122635244785751302
+    second: galletcity_tiles_162
+  - first:
+      213: -3954638162558584125
+    second: galletcity_tiles_163
+  - first:
+      213: -6921280300282323912
+    second: galletcity_tiles_164
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: galletcity_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478983428a91d7d30800000000000000
+      internalID: 4430725818355325044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1da028ddfcda4f40800000000000000
+      internalID: 5713622060083752218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49958090121229d60800000000000000
+      internalID: 7895409522503080340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40748cf80f8bdd40800000000000000
+      internalID: 5610235029579133003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427daae9835fbc500800000000000000
+      internalID: 417697013990872868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786818d67d1d5040800000000000000
+      internalID: 4637895587530303605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 160
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553e0cc6ba2714140800000000000000
+      internalID: 4702165566541062997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d957c11bd74e26cf0800000000000000
+      internalID: -260394599940590179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79203cd8cfb4cc8b0800000000000000
+      internalID: -5130642327399628137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38acabefae4824880800000000000000
+      internalID: -8628187791257580925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7facedc97060680800000000000000
+      internalID: -8789329252432808022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c948cb0560d43e2f0800000000000000
+      internalID: -944826807297997668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ce5712f76563950800000000000000
+      internalID: 6428420622140173331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d67479b41fd18d860800000000000000
+      internalID: 7554821297106536301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 152
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9dd5c55632af770800000000000000
+      internalID: 8645261352939411889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3f3495d25c39980800000000000000
+      internalID: -8533260070375132193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd46402f44814df20800000000000000
+      internalID: 3446406299242489055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7621e58d89058b7b0800000000000000
+      internalID: -5208324351658683801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095d14c453e1ad750800000000000000
+      internalID: 6330405440484136336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f4ed5fe5e313f140800000000000000
+      internalID: 4752163910090351860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03a9f97c8547cab0800000000000000
+      internalID: -4987941592645393651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26de2435643662430800000000000000
+      internalID: 3757800092783013218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 824f6822a99ea6330800000000000000
+      internalID: 3705030491679159336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea2f3b9924f74240800000000000000
+      internalID: 4776054389385145066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d96fd1f6e876d510800000000000000
+      internalID: 1573578053108328915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc842dd8ec11290800000000000000
+      internalID: -7921323161054294677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53868256ee35be790800000000000000
+      internalID: -7499808471090960331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d56325278eb2930800000000000000
+      internalID: 4119641861863660856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafad3f28a54a5da0800000000000000
+      internalID: -5955370968594665556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8c1c186c06d11f0800000000000000
+      internalID: -1072594730547558152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 136
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178d6f14b0d53cea0800000000000000
+      internalID: -5853732787718793103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fc603459b199800800000000000000
+      internalID: 619556751628750747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b064d5d6883685c90800000000000000
+      internalID: -7180880168240724469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afb56da495d526f0800000000000000
+      internalID: -709926531699982425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870cc8805401be9e0800000000000000
+      internalID: -1591160154663108488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd7290dc7e2aca60800000000000000
+      internalID: 7695014026925997525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6bd27ff3a4bd8a0800000000000000
+      internalID: -6279343616847661378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86114e60087b818b0800000000000000
+      internalID: -5181189610790448792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 128
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69635eb49adf55880800000000000000
+      internalID: -8622707007966333290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8200f9ff374870800000000000000
+      internalID: 8666966350603914076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32bbced526a8a0d0800000000000000
+      internalID: -3411294036151258564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a6d3f2147e39320800000000000000
+      internalID: 2563646880055388721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5128ab2ba97ec840800000000000000
+      internalID: 5246264392012013915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234ddac0e3189f890800000000000000
+      internalID: -7423760407242877902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9310c431c32510d00800000000000000
+      internalID: 937120615445037369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b10fb05643f6cb0800000000000000
+      internalID: -4868615063567590568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 120
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4bcc58eb39fcde0800000000000000
+      internalID: -1310666520043670281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb3a926d83620710800000000000000
+      internalID: 1657997071721577460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24485669833d8cad0800000000000000
+      internalID: -2681661338104265662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0118a66ff15bc6840800000000000000
+      internalID: 5218745217098350864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39cc928f444cb39e0800000000000000
+      internalID: -1640501838746104685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bc6b0951d22f690800000000000000
+      internalID: -7569938453010920598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8578727d562351c0800000000000000
+      internalID: -4516223818528164466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75e3a55703f8c160800000000000000
+      internalID: 7046148829848266107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72442c0a52abf57d0800000000000000
+      internalID: -2927416561993890777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6804b6c56da724650800000000000000
+      internalID: 6215665496816828550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3ac1428e13a53f0800000000000000
+      internalID: -911361101481073736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c14d0e899081f10800000000000000
+      internalID: 2240551366828498041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a782e201cc4243c40800000000000000
+      internalID: 5491054304534866042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 434469341cf74a360800000000000000
+      internalID: 7180004173974750260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08cfbd58a3d7dd050800000000000000
+      internalID: 5826951183194651776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb9f66594e073580800000000000000
+      internalID: -8847587234800493570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 104
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f658e610bd49650800000000000000
+      internalID: 6238852183010668299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00904d911f8b02680800000000000000
+      internalID: -8781815927712511744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa837d965e03e6b0800000000000000
+      internalID: -5268351373921776978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af0ab80fa9157190800000000000000
+      internalID: -7965432126378471518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1bea2f9595da490800000000000000
+      internalID: -7733426742266777171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a052a93ae61bc80800000000000000
+      internalID: -8308738188577011160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f31bfd76bcdea30800000000000000
+      internalID: 4246273670675251056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3128b2d9970482130800000000000000
+      internalID: 3542151997998989843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 96
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2545b300c96fe700800000000000000
+      internalID: 571791951116191019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b769cb2b6cac030800000000000000
+      internalID: 3515840930086550373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e47b4fa69de341ba0800000000000000
+      internalID: -6119196890166413490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5371ca039744a87d0800000000000000
+      internalID: -2915442521470658763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cf78e6bc4e0a690800000000000000
+      internalID: -7592817409362756578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b835695a88120650800000000000000
+      internalID: 6197543019699583159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bae38fbc9ba4fe20800000000000000
+      internalID: 3383517909778426544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23bcda87037b45f0800000000000000
+      internalID: -771396434932223186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 88
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6858c06c6705fa140800000000000000
+      internalID: 4733090204448753030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210bb395a60b304a0800000000000000
+      internalID: -6628260255749132270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e67ca2118b40460800000000000000
+      internalID: 7207087687571303956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d24aac1392e6c610800000000000000
+      internalID: 1641248235692114640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663a649953ea410a0800000000000000
+      internalID: -6911707982878825626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2330d7a3cddd23950800000000000000
+      internalID: 6427443556154934066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0169f85fbf9c8a8f0800000000000000
+      internalID: -528950872222231024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f411564bf8dda8f50800000000000000
+      internalID: 6884558589665808719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 80
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72aa7e8066e4f4590800000000000000
+      internalID: -7687839838755116505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeef6233c03d7fd00800000000000000
+      internalID: 1006505091091857134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4648fad32df712c90800000000000000
+      internalID: -7196330188606569372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f847a327b584540800000000000000
+      internalID: 4992340733105311614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b2abc07f5181940800000000000000
+      internalID: 5266983915024427848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731048cd02443e190800000000000000
+      internalID: -7934423210567401161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97e4a582cbffa810800000000000000
+      internalID: 1778917190719039387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 303ceef679637fbd0800000000000000
+      internalID: -2596546636109921533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362e02101123f68d0800000000000000
+      internalID: -2851004990487469469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e23ac521906c0fb0800000000000000
+      internalID: -4680259736224255255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0efb850a2a6ed720800000000000000
+      internalID: 2872850341023186445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a28f37248cfe020800000000000000
+      internalID: 2373335716386581134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864fb05fd7b15b6d0800000000000000
+      internalID: -2975441751012281240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8cc98409cf9f630800000000000000
+      internalID: 3961475043872786624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d6df24d55a95ad0800000000000000
+      internalID: -2712955480539566716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e321f4b9e9b95130800000000000000
+      internalID: 3556077794199938021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12fdc81dd05d0f120800000000000000
+      internalID: 2445688852989140769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9286df9a60690810800000000000000
+      internalID: 1732021542765101723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc19619d277e030c0800000000000000
+      internalID: -4597920739090853425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02bb46b45ea8f1ae0800000000000000
+      internalID: -1576388627139347680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6975bcb2fc976dd80800000000000000
+      internalID: -8226253738645694570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a26c1cc11f02040800000000000000
+      internalID: 4620958323494496871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911be21831a33ee30800000000000000
+      internalID: 4531529505510961433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894b555635d68ccb0800000000000000
+      internalID: -4843501194287139688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a01ed40daf504010800000000000000
+      internalID: 1171041099831972008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65b7b2837df294b10800000000000000
+      internalID: 1966155313730779990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcea4f8b77b9467f0800000000000000
+      internalID: -620199910163829043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4375c2af617e7d6c0800000000000000
+      internalID: -4118569248334522572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed8ceb71387f78e0800000000000000
+      internalID: -1693502780940186135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f042b62a356cf20800000000000000
+      internalID: 3442530922218655572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efc9cd644c6e3220800000000000000
+      internalID: 2467528687001128931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82a97fdcecc2ea80800000000000000
+      internalID: -8438957434005249393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 48
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eed8487920ae4310800000000000000
+      internalID: 1391225434876206816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba5000dacbf56c1b0800000000000000
+      internalID: -5636712619646646869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12275dbc768b49c30800000000000000
+      internalID: 4365316694769758753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffc9fc552956bf00800000000000000
+      internalID: 1132190373338796023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef5c53be7e8bcba0800000000000000
+      internalID: -6067599398125412369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9475495a287d35260800000000000000
+      internalID: 7085243594907604809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed603b9f5755e3130800000000000000
+      internalID: 3548367521603323614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f5f524379939d0c0800000000000000
+      internalID: -4550542626903427595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 40
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de3259111c1b9e430800000000000000
+      internalID: 3812774002327626733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1fe02247c7cded0800000000000000
+      internalID: -2387896864183750192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecdbca4c5bf70c450800000000000000
+      internalID: 6107021513379855822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4018a86ef52fab0c0800000000000000
+      internalID: -4559065179055554300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9791ef21769ea1630800000000000000
+      internalID: 3898685056352131449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bdb713f8e9a4b30800000000000000
+      internalID: 4272401534362049391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4b9b8c84ae09d80800000000000000
+      internalID: -8245833319389219651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d944ae26f9de950800000000000000
+      internalID: 6480010686041988451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_134
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb6e66b6a207cc0800000000000000
+      internalID: -3715423051804393693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_135
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e396d38148ebc60800000000000000
+      internalID: 7835845641315630642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_136
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1f9b7454bb1fa0800000000000000
+      internalID: -5828867017756697614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61afc6291fd4d5490800000000000000
+      internalID: -7755957283323053546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_138
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc698235b18ab97d0800000000000000
+      internalID: -2910547898852141361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_139
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e26715b52f8c4510800000000000000
+      internalID: 1534758965141267173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_140
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e6af7eeb856e6e0800000000000000
+      internalID: -1808660623383695802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_141
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b6290c830e3ffc0800000000000000
+      internalID: -3462177154164167872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_142
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 24
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db4a91150558e760800000000000000
+      internalID: 7487327860761971672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_143
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d94737c5625d7fe0800000000000000
+      internalID: -1189704129468479024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_144
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a1fe2edc8233b6d0800000000000000
+      internalID: -2975979348157337184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_145
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6428d5efc5271a90800000000000000
+      internalID: -7343359092559698837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_146
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ffbe621e67729e30800000000000000
+      internalID: 4508797491590643696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_147
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24ca171fb934c5e90800000000000000
+      internalID: -7035674180809806782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_148
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137732c79b7139a90800000000000000
+      internalID: -7308471684873095375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_149
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07326be7f25ce3790800000000000000
+      internalID: -7548379117646371984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_150
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 16
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b8c27f065a991a0800000000000000
+      internalID: -6802223926284088504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_151
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7217720caf4cf4460800000000000000
+      internalID: 7228212508197613863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_152
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6883f9c2d4bb36620800000000000000
+      internalID: 2766260536271124614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_153
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6eb3193cfd6fbe0800000000000000
+      internalID: -1443720599477426483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_154
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39ee2205dddcab7c0800000000000000
+      internalID: -4054702164077777261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_155
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e676c3fbc479a3e0800000000000000
+      internalID: -2041972536718756125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_156
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dda372101d87bb0800000000000000
+      internalID: -4937967188528407140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_157
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1443adb087b08a0800000000000000
+      internalID: -6337840058293010015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_158
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 8
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca8121594db7c840800000000000000
+      internalID: 5244368413687646926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65256cb8093fc7120800000000000000
+      internalID: 2413071302509613654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_160
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56fb9b59e611795a0800000000000000
+      internalID: -6514719169312080027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_161
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5b525cc13676cc0800000000000000
+      internalID: -3717893992153238111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_162
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 605d12e840fa8d260800000000000000
+      internalID: 7122635244785751302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_163
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cafd713b8d4e19c0800000000000000
+      internalID: -3954638162558584125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: galletcity_tiles_164
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c53c6cc3ca2ff90800000000000000
+      internalID: -6921280300282323912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
